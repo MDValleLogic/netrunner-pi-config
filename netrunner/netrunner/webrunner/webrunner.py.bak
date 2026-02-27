@@ -1,0 +1,34 @@
+import json
+import time
+from datetime import datetime, timezone
+
+CONFIG_FILE = "config.json"
+
+
+def utc_now():
+    return datetime.now(timezone.utc).isoformat(timespec="seconds")
+
+
+def load_config():
+    with open(CONFIG_FILE, "r") as f:
+        return json.load(f)
+
+
+def main():
+    while True:
+        config = load_config()
+        interval = config["interval_minutes"]
+        urls = config["urls"]
+
+        print(f"[{utc_now()}] WebRunner cycle start")
+        print(f" Interval: {interval} minutes")
+        print(f" URLs ({len(urls)}):")
+
+        for url in urls:
+            print(f"  - {url}")
+        print(f"[{utc_now()}] Sleeping {interval * 60} seconds\n")
+        time.sleep(interval * 60)
+
+
+if __name__ == "__main__":
+    main()

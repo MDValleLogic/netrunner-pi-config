@@ -1,0 +1,17 @@
+services:
+  routerunner:
+    build:
+      context: .
+    container_name: routerunner
+    restart: unless-stopped
+    network_mode: host
+    environment:
+      - DEVICE_ID=pi-403c60f1-2557-408f-a3c8-ca7acaf034f5
+      - CLOUD_BASE=https://netrunner-dashboard.vercel.app
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./routerunner.py:/app/routerunner.py:ro
+      - ./data:/data
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW

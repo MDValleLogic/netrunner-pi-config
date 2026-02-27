@@ -1,0 +1,155 @@
+#!/usr/bin/env python3
+import csv
+import json
+import os
+import time
+import socket
+from datetime import datetime, timezone
+from urllib.parse import urlparse
+import urllib.request
+import requests
+
+CONFIG_FILE = "/app/config.json"
+DATA_DIR = "/data"
+CSV_FILE = os.path.join(DATA_DIR, "webrunner.csv")
+
+DEFAULT_INTERVAL_SECONDS = 60
+DEFAULT_TIMEOUT_SECONDS = 15
+
+
+def utc_now():
+    return datetime.now(timezone.utc).isoformat(timespec="seconds")
+
+
+def load_config():
+    try:
+        with open(CONFIG_FILE, "r") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def ensure_files():
+    os.makedirs(DATA_DIR, exist_ok=True)
+
+    if not os.path.exists(CSV_FILE):
+        with open(CSV_FILE, "w", newline="") as f:
+            writer = csv.writer(f)
+            writer.writerow([
+                "timestamp_utc",
+                "url",
+                "dns_ms",
+                "http_ms",
+                "http_err"
+            ])
+
+	
+
+def dns_lookup_ms(url):
+    host = urlparse(url).hostname
+    if not host:
+        return None
+
+    try:
+        start = time.time()
+        socket.getaddrinfo(host, None)
+        return round((time.time() - start) * 1000, 2)
+    except Exception:
+        return None
+
+
+def http_get_ms(url, timeout):
+    try:
+        start = time.time()
+        req = urllib.request.Request(
+            url,
+            headers={"User-Agent": "NetRunner-WebRunner/1.0"}
+        )
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            r.read(128)
+        ms = round((time.time() - start) * 1000, 2)
+        return ms, ""
+    except Exception as e:
+        return None, str(e)
+
+def run_cycle(config):
+    urls = config.get("urls", [])
+    if not isinstance(urls, list):
+        urls = []
+
+    timeout = int(config.get("timeout_seconds", DEFAULT_TIMEOUT_SECONDS))
+
+    ts = utc_now()
+    print(f"[{ts}] cycle start | urls={len(urls)}", flush=True)
+
+    with open(CSV_FILE, "a", newline="") as f:
+        writer = csv.writer(f)
+
+        for url in urls:
+            dns_ms = dns_lookup_ms(url)
+            http_ms, http_err = http_get_ms(url, timeout)
+
+            writer.writerow([
+                ts,
+                url,
+                dns_ms,
+                http_ms,
+                http_err
+            ])
+
+
+            # ---- send to cloud ingest API (non-fatal) ----
+            try:
+                ingest_url = config.get("ingest_url")
+                if ingest_url:
+                    payload = {
+                        "device_id": config.get("device_id", "pi-unknown"),
+                        "ts_utc": ts,
+                        "url": url,
+                        "dns_ms": dns_ms,
+                        "http_ms": http_ms,
+                        "http_err": http_err or ""
+                    }
+                    resp = requests.post(ingest_url, json=payload, timeout=5)
+                    if resp.status_code >= 300:
+                        print(f"[WebRunner] ingest http {resp.status_code}: {resp.text[:200]}", flush=True)
+            except Exception as e:
+                print(f"[WebRunner] ingest error: {e}", flush=True)
+            # ----------------------------------------------
+
+            print(f"[{ts}] {url} dns={(str(dns_ms)+'ms') if dns_ms is not None else 'ERR'} http={(str(http_ms)+'ms') if http_ms is not None else 'ERR ('+http_err+')'}", flush=True)
+def get_interval_seconds(config):
+    if "interval_seconds" in config:
+        try:
+            return max(5, int(config["interval_seconds"]))
+        except Exception:
+            pass
+
+    if "interval_minutes" in config:
+        try:
+            return max(5, int(config["interval_minutes"]) * 60)
+        except Exception:
+            pass
+
+    return DEFAULT_INTERVAL_SECONDS
+
+
+def main():
+    print("[WebRunner] starting", flush=True)
+    ensure_files()
+
+    while True:
+        config = load_config()
+        interval = get_interval_seconds(config)
+
+        try:
+            run_cycle(config)
+        except Exception as e:
+            print(f"[WebRunner] error: {e}", flush=True)
+
+        print(f"[WebRunner] sleeping {interval}s", flush=True)
+        time.sleep(interval)
+
+
+if __name__ == "__main__":
+    main()

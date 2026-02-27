@@ -1,0 +1,647 @@
+{"timestamp_utc": "2026-01-19T18:55:20+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056053, "error": ""}
+{"timestamp_utc": "2026-01-19T18:55:20+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.318188, "error": ""}
+{"timestamp_utc": "2026-01-19T18:55:20+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.360417, "error": ""}
+{"timestamp_utc": "2026-01-19T19:11:34+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056317, "error": ""}
+{"timestamp_utc": "2026-01-19T19:11:34+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.467766, "error": ""}
+{"timestamp_utc": "2026-01-19T19:11:34+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.393634, "error": ""}
+{"timestamp_utc": "2026-01-19T19:28:35+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.069688, "error": ""}
+{"timestamp_utc": "2026-01-19T19:28:35+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.25559, "error": ""}
+{"timestamp_utc": "2026-01-19T19:28:35+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.372181, "error": ""}
+{"timestamp_utc": "2026-01-19T19:31:29+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058695, "error": ""}
+{"timestamp_utc": "2026-01-19T19:31:29+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.393241, "error": ""}
+{"timestamp_utc": "2026-01-19T19:31:29+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.355806, "error": ""}
+{"timestamp_utc": "2026-01-19T22:08:54+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.048022, "error": ""}
+{"timestamp_utc": "2026-01-19T22:08:54+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.341359, "error": ""}
+{"timestamp_utc": "2026-01-19T22:08:54+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.349971, "error": ""}
+{"timestamp_utc": "2026-01-19T22:13:55+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.059323, "error": ""}
+{"timestamp_utc": "2026-01-19T22:13:55+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.216562, "error": ""}
+{"timestamp_utc": "2026-01-19T22:13:55+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.35077, "error": ""}
+{"timestamp_utc": "2026-01-19T22:18:55+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.082029, "error": ""}
+{"timestamp_utc": "2026-01-19T22:18:55+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.254188, "error": ""}
+{"timestamp_utc": "2026-01-19T22:18:55+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.385125, "error": ""}
+{"timestamp_utc": "2026-01-19T22:23:56+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 4.067638, "error": ""}
+{"timestamp_utc": "2026-01-19T22:23:56+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.282261, "error": ""}
+{"timestamp_utc": "2026-01-19T22:23:56+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.359574, "error": ""}
+{"timestamp_utc": "2026-01-19T22:29:01+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.060458, "error": ""}
+{"timestamp_utc": "2026-01-19T22:29:01+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.348452, "error": ""}
+{"timestamp_utc": "2026-01-19T22:29:01+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.394196, "error": ""}
+{"timestamp_utc": "2026-01-19T22:34:02+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056382, "error": ""}
+{"timestamp_utc": "2026-01-19T22:34:02+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.411608, "error": ""}
+{"timestamp_utc": "2026-01-19T22:34:02+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.421317, "error": ""}
+{"timestamp_utc": "2026-01-19T22:39:02+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.063816, "error": ""}
+{"timestamp_utc": "2026-01-19T22:39:02+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.676155, "error": ""}
+{"timestamp_utc": "2026-01-19T22:39:02+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.382955, "error": ""}
+{"timestamp_utc": "2026-01-19T22:44:04+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.067291, "error": ""}
+{"timestamp_utc": "2026-01-19T22:44:04+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.31519, "error": ""}
+{"timestamp_utc": "2026-01-19T22:44:04+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.350098, "error": ""}
+{"timestamp_utc": "2026-01-19T22:49:04+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058648, "error": ""}
+{"timestamp_utc": "2026-01-19T22:49:04+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.234297, "error": ""}
+{"timestamp_utc": "2026-01-19T22:49:04+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.354478, "error": ""}
+{"timestamp_utc": "2026-01-19T22:54:05+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.089876, "error": ""}
+{"timestamp_utc": "2026-01-19T22:54:05+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.337765, "error": ""}
+{"timestamp_utc": "2026-01-19T22:54:05+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.383268, "error": ""}
+{"timestamp_utc": "2026-01-19T22:59:06+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05778, "error": ""}
+{"timestamp_utc": "2026-01-19T22:59:06+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.269437, "error": ""}
+{"timestamp_utc": "2026-01-19T22:59:06+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.376263, "error": ""}
+{"timestamp_utc": "2026-01-19T23:04:07+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.068957, "error": ""}
+{"timestamp_utc": "2026-01-19T23:04:07+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.267931, "error": ""}
+{"timestamp_utc": "2026-01-19T23:04:07+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.367789, "error": ""}
+{"timestamp_utc": "2026-01-19T23:09:07+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.055859, "error": ""}
+{"timestamp_utc": "2026-01-19T23:09:07+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.262481, "error": ""}
+{"timestamp_utc": "2026-01-19T23:09:07+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.386458, "error": ""}
+{"timestamp_utc": "2026-01-19T23:14:08+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058724, "error": ""}
+{"timestamp_utc": "2026-01-19T23:14:08+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.291403, "error": ""}
+{"timestamp_utc": "2026-01-19T23:14:08+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.34679, "error": ""}
+{"timestamp_utc": "2026-01-19T23:19:09+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.0578, "error": ""}
+{"timestamp_utc": "2026-01-19T23:19:09+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.257341, "error": ""}
+{"timestamp_utc": "2026-01-19T23:19:09+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.411886, "error": ""}
+{"timestamp_utc": "2026-01-19T23:24:10+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057469, "error": ""}
+{"timestamp_utc": "2026-01-19T23:24:10+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.329385, "error": ""}
+{"timestamp_utc": "2026-01-19T23:24:10+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.357133, "error": ""}
+{"timestamp_utc": "2026-01-19T23:29:10+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 4.059594, "error": ""}
+{"timestamp_utc": "2026-01-19T23:29:10+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.290242, "error": ""}
+{"timestamp_utc": "2026-01-19T23:29:10+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.399527, "error": ""}
+{"timestamp_utc": "2026-01-19T23:34:15+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.064728, "error": ""}
+{"timestamp_utc": "2026-01-19T23:34:15+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.26622, "error": ""}
+{"timestamp_utc": "2026-01-19T23:34:15+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.389819, "error": ""}
+{"timestamp_utc": "2026-01-19T23:39:16+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.069091, "error": ""}
+{"timestamp_utc": "2026-01-19T23:39:16+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.340721, "error": ""}
+{"timestamp_utc": "2026-01-19T23:39:16+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.385189, "error": ""}
+{"timestamp_utc": "2026-01-19T23:44:17+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.063165, "error": ""}
+{"timestamp_utc": "2026-01-19T23:44:17+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.222234, "error": ""}
+{"timestamp_utc": "2026-01-19T23:44:17+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.38496, "error": ""}
+{"timestamp_utc": "2026-01-19T23:49:18+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057459, "error": ""}
+{"timestamp_utc": "2026-01-19T23:49:18+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.280402, "error": ""}
+{"timestamp_utc": "2026-01-19T23:49:18+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.357259, "error": ""}
+{"timestamp_utc": "2026-01-19T23:54:18+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05923, "error": ""}
+{"timestamp_utc": "2026-01-19T23:54:18+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.276213, "error": ""}
+{"timestamp_utc": "2026-01-19T23:54:18+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.372749, "error": ""}
+{"timestamp_utc": "2026-01-19T23:59:19+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056747, "error": ""}
+{"timestamp_utc": "2026-01-19T23:59:19+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.301531, "error": ""}
+{"timestamp_utc": "2026-01-19T23:59:19+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.347369, "error": ""}
+{"timestamp_utc": "2026-01-20T00:04:20+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.070144, "error": ""}
+{"timestamp_utc": "2026-01-20T00:04:20+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.274362, "error": ""}
+{"timestamp_utc": "2026-01-20T00:04:20+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.393588, "error": ""}
+{"timestamp_utc": "2026-01-20T00:09:21+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.064217, "error": ""}
+{"timestamp_utc": "2026-01-20T00:09:21+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.308584, "error": ""}
+{"timestamp_utc": "2026-01-20T00:09:21+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.365713, "error": ""}
+{"timestamp_utc": "2026-01-20T00:14:21+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054695, "error": ""}
+{"timestamp_utc": "2026-01-20T00:14:21+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.342204, "error": ""}
+{"timestamp_utc": "2026-01-20T00:14:21+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.373975, "error": ""}
+{"timestamp_utc": "2026-01-20T00:19:22+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057187, "error": ""}
+{"timestamp_utc": "2026-01-20T00:19:22+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.312293, "error": ""}
+{"timestamp_utc": "2026-01-20T00:19:22+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.39749, "error": ""}
+{"timestamp_utc": "2026-01-20T00:24:23+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.053442, "error": ""}
+{"timestamp_utc": "2026-01-20T00:24:23+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.361993, "error": ""}
+{"timestamp_utc": "2026-01-20T00:24:23+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.387687, "error": ""}
+{"timestamp_utc": "2026-01-20T00:29:24+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.060365, "error": ""}
+{"timestamp_utc": "2026-01-20T00:29:24+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.26972, "error": ""}
+{"timestamp_utc": "2026-01-20T00:29:24+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.35041, "error": ""}
+{"timestamp_utc": "2026-01-20T00:34:25+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.055775, "error": ""}
+{"timestamp_utc": "2026-01-20T00:34:25+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.27484, "error": ""}
+{"timestamp_utc": "2026-01-20T00:34:25+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.374196, "error": ""}
+{"timestamp_utc": "2026-01-20T00:39:25+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056692, "error": ""}
+{"timestamp_utc": "2026-01-20T00:39:25+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.531814, "error": ""}
+{"timestamp_utc": "2026-01-20T00:39:25+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.376535, "error": ""}
+{"timestamp_utc": "2026-01-20T00:44:26+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.061396, "error": ""}
+{"timestamp_utc": "2026-01-20T00:44:26+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.353856, "error": ""}
+{"timestamp_utc": "2026-01-20T00:44:26+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.400366, "error": ""}
+{"timestamp_utc": "2026-01-20T00:49:27+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058131, "error": ""}
+{"timestamp_utc": "2026-01-20T00:49:27+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.397782, "error": ""}
+{"timestamp_utc": "2026-01-20T00:49:27+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.377343, "error": ""}
+{"timestamp_utc": "2026-01-20T00:54:28+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.073612, "error": ""}
+{"timestamp_utc": "2026-01-20T00:54:28+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.266811, "error": ""}
+{"timestamp_utc": "2026-01-20T00:54:28+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.3977, "error": ""}
+{"timestamp_utc": "2026-01-20T00:59:29+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05744, "error": ""}
+{"timestamp_utc": "2026-01-20T00:59:29+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.275825, "error": ""}
+{"timestamp_utc": "2026-01-20T00:59:29+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.347422, "error": ""}
+{"timestamp_utc": "2026-01-20T01:04:30+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.070007, "error": ""}
+{"timestamp_utc": "2026-01-20T01:04:30+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.251676, "error": ""}
+{"timestamp_utc": "2026-01-20T01:04:30+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.372249, "error": ""}
+{"timestamp_utc": "2026-01-20T01:09:30+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.063549, "error": ""}
+{"timestamp_utc": "2026-01-20T01:09:30+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.356902, "error": ""}
+{"timestamp_utc": "2026-01-20T01:09:30+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.399356, "error": ""}
+{"timestamp_utc": "2026-01-20T01:14:31+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054696, "error": ""}
+{"timestamp_utc": "2026-01-20T01:14:31+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.258245, "error": ""}
+{"timestamp_utc": "2026-01-20T01:14:31+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.354255, "error": ""}
+{"timestamp_utc": "2026-01-20T01:19:32+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.080629, "error": ""}
+{"timestamp_utc": "2026-01-20T01:19:32+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.254746, "error": ""}
+{"timestamp_utc": "2026-01-20T01:19:32+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.377214, "error": ""}
+{"timestamp_utc": "2026-01-20T01:24:33+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.065221, "error": ""}
+{"timestamp_utc": "2026-01-20T01:24:33+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.278266, "error": ""}
+{"timestamp_utc": "2026-01-20T01:24:33+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.401859, "error": ""}
+{"timestamp_utc": "2026-01-20T01:29:33+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054034, "error": ""}
+{"timestamp_utc": "2026-01-20T01:29:33+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.292264, "error": ""}
+{"timestamp_utc": "2026-01-20T01:29:33+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.393456, "error": ""}
+{"timestamp_utc": "2026-01-20T01:34:34+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.065773, "error": ""}
+{"timestamp_utc": "2026-01-20T01:34:34+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.275167, "error": ""}
+{"timestamp_utc": "2026-01-20T01:34:34+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.356502, "error": ""}
+{"timestamp_utc": "2026-01-20T01:39:35+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.055017, "error": ""}
+{"timestamp_utc": "2026-01-20T01:39:35+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.250213, "error": ""}
+{"timestamp_utc": "2026-01-20T01:39:35+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.385219, "error": ""}
+{"timestamp_utc": "2026-01-20T01:44:36+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054318, "error": ""}
+{"timestamp_utc": "2026-01-20T01:44:36+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.368022, "error": ""}
+{"timestamp_utc": "2026-01-20T01:44:36+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.393766, "error": ""}
+{"timestamp_utc": "2026-01-20T01:49:36+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.078712, "error": ""}
+{"timestamp_utc": "2026-01-20T01:49:36+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.325642, "error": ""}
+{"timestamp_utc": "2026-01-20T01:49:36+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.347416, "error": ""}
+{"timestamp_utc": "2026-01-20T01:54:37+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057344, "error": ""}
+{"timestamp_utc": "2026-01-20T01:54:37+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.262857, "error": ""}
+{"timestamp_utc": "2026-01-20T01:54:37+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.389393, "error": ""}
+{"timestamp_utc": "2026-01-20T01:59:38+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.062646, "error": ""}
+{"timestamp_utc": "2026-01-20T01:59:38+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.276389, "error": ""}
+{"timestamp_utc": "2026-01-20T01:59:38+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.387477, "error": ""}
+{"timestamp_utc": "2026-01-20T02:04:39+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057747, "error": ""}
+{"timestamp_utc": "2026-01-20T02:04:39+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.310539, "error": ""}
+{"timestamp_utc": "2026-01-20T02:04:39+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.363584, "error": ""}
+{"timestamp_utc": "2026-01-20T02:09:40+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056906, "error": ""}
+{"timestamp_utc": "2026-01-20T02:09:40+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.365155, "error": ""}
+{"timestamp_utc": "2026-01-20T02:09:40+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.42874, "error": ""}
+{"timestamp_utc": "2026-01-20T02:14:40+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.064746, "error": ""}
+{"timestamp_utc": "2026-01-20T02:14:40+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.274572, "error": ""}
+{"timestamp_utc": "2026-01-20T02:14:40+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.396709, "error": ""}
+{"timestamp_utc": "2026-01-20T02:19:41+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.068669, "error": ""}
+{"timestamp_utc": "2026-01-20T02:19:41+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.298952, "error": ""}
+{"timestamp_utc": "2026-01-20T02:19:41+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.389363, "error": ""}
+{"timestamp_utc": "2026-01-20T02:24:42+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.067058, "error": ""}
+{"timestamp_utc": "2026-01-20T02:24:42+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.317381, "error": ""}
+{"timestamp_utc": "2026-01-20T02:24:42+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.390054, "error": ""}
+{"timestamp_utc": "2026-01-20T02:29:43+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.060562, "error": ""}
+{"timestamp_utc": "2026-01-20T02:29:43+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.28533, "error": ""}
+{"timestamp_utc": "2026-01-20T02:29:43+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.355235, "error": ""}
+{"timestamp_utc": "2026-01-20T02:34:44+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.0598, "error": ""}
+{"timestamp_utc": "2026-01-20T02:34:44+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.299898, "error": ""}
+{"timestamp_utc": "2026-01-20T02:34:44+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.376555, "error": ""}
+{"timestamp_utc": "2026-01-20T02:39:44+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.0613, "error": ""}
+{"timestamp_utc": "2026-01-20T02:39:44+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.309796, "error": ""}
+{"timestamp_utc": "2026-01-20T02:39:44+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.391572, "error": ""}
+{"timestamp_utc": "2026-01-20T02:44:45+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.059421, "error": ""}
+{"timestamp_utc": "2026-01-20T02:44:45+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.401057, "error": ""}
+{"timestamp_utc": "2026-01-20T02:44:45+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.403621, "error": ""}
+{"timestamp_utc": "2026-01-20T02:49:46+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.061628, "error": ""}
+{"timestamp_utc": "2026-01-20T02:49:46+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.345229, "error": ""}
+{"timestamp_utc": "2026-01-20T02:49:46+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.378513, "error": ""}
+{"timestamp_utc": "2026-01-20T02:54:47+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056613, "error": ""}
+{"timestamp_utc": "2026-01-20T02:54:47+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.327316, "error": ""}
+{"timestamp_utc": "2026-01-20T02:54:47+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.425105, "error": ""}
+{"timestamp_utc": "2026-01-20T02:59:48+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056206, "error": ""}
+{"timestamp_utc": "2026-01-20T02:59:48+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.258636, "error": ""}
+{"timestamp_utc": "2026-01-20T02:59:48+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.373944, "error": ""}
+{"timestamp_utc": "2026-01-20T03:04:48+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.065908, "error": ""}
+{"timestamp_utc": "2026-01-20T03:04:48+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 1.338928, "error": ""}
+{"timestamp_utc": "2026-01-20T03:04:48+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.377433, "error": ""}
+{"timestamp_utc": "2026-01-20T03:09:50+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.061946, "error": ""}
+{"timestamp_utc": "2026-01-20T03:09:50+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.273836, "error": ""}
+{"timestamp_utc": "2026-01-20T03:09:50+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.371784, "error": ""}
+{"timestamp_utc": "2026-01-20T03:14:51+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057505, "error": ""}
+{"timestamp_utc": "2026-01-20T03:14:51+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.224199, "error": ""}
+{"timestamp_utc": "2026-01-20T03:14:51+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.408791, "error": ""}
+{"timestamp_utc": "2026-01-20T03:19:52+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.059161, "error": ""}
+{"timestamp_utc": "2026-01-20T03:19:52+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.350332, "error": ""}
+{"timestamp_utc": "2026-01-20T03:19:52+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.370467, "error": ""}
+{"timestamp_utc": "2026-01-20T03:24:53+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.063357, "error": ""}
+{"timestamp_utc": "2026-01-20T03:24:53+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.305304, "error": ""}
+{"timestamp_utc": "2026-01-20T03:24:53+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.437383, "error": ""}
+{"timestamp_utc": "2026-01-20T03:29:53+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.078202, "error": ""}
+{"timestamp_utc": "2026-01-20T03:29:53+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.326763, "error": ""}
+{"timestamp_utc": "2026-01-20T03:29:53+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.381842, "error": ""}
+{"timestamp_utc": "2026-01-20T03:34:54+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.055693, "error": ""}
+{"timestamp_utc": "2026-01-20T03:34:54+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.258905, "error": ""}
+{"timestamp_utc": "2026-01-20T03:34:54+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.365413, "error": ""}
+{"timestamp_utc": "2026-01-20T03:39:55+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056792, "error": ""}
+{"timestamp_utc": "2026-01-20T03:39:55+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.277878, "error": ""}
+{"timestamp_utc": "2026-01-20T03:39:55+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.388271, "error": ""}
+{"timestamp_utc": "2026-01-20T03:44:56+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.059482, "error": ""}
+{"timestamp_utc": "2026-01-20T03:44:56+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.334277, "error": ""}
+{"timestamp_utc": "2026-01-20T03:44:56+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.369824, "error": ""}
+{"timestamp_utc": "2026-01-20T03:49:57+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.064723, "error": ""}
+{"timestamp_utc": "2026-01-20T03:49:57+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.256312, "error": ""}
+{"timestamp_utc": "2026-01-20T03:49:57+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.359295, "error": ""}
+{"timestamp_utc": "2026-01-20T03:54:57+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.055158, "error": ""}
+{"timestamp_utc": "2026-01-20T03:54:57+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.262764, "error": ""}
+{"timestamp_utc": "2026-01-20T03:54:57+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.377491, "error": ""}
+{"timestamp_utc": "2026-01-20T03:59:58+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058524, "error": ""}
+{"timestamp_utc": "2026-01-20T03:59:58+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.278354, "error": ""}
+{"timestamp_utc": "2026-01-20T03:59:58+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.369346, "error": ""}
+{"timestamp_utc": "2026-01-20T04:04:59+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.063493, "error": ""}
+{"timestamp_utc": "2026-01-20T04:04:59+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.195324, "error": ""}
+{"timestamp_utc": "2026-01-20T04:04:59+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.355901, "error": ""}
+{"timestamp_utc": "2026-01-20T04:09:59+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.068712, "error": ""}
+{"timestamp_utc": "2026-01-20T04:09:59+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.243025, "error": ""}
+{"timestamp_utc": "2026-01-20T04:09:59+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.39775, "error": ""}
+{"timestamp_utc": "2026-01-20T04:15:00+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.07381, "error": ""}
+{"timestamp_utc": "2026-01-20T04:15:00+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.270743, "error": ""}
+{"timestamp_utc": "2026-01-20T04:15:00+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.368141, "error": ""}
+{"timestamp_utc": "2026-01-20T04:20:01+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.060674, "error": ""}
+{"timestamp_utc": "2026-01-20T04:20:01+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.245866, "error": ""}
+{"timestamp_utc": "2026-01-20T04:20:01+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.429163, "error": ""}
+{"timestamp_utc": "2026-01-20T04:25:02+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.068907, "error": ""}
+{"timestamp_utc": "2026-01-20T04:25:02+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.242991, "error": ""}
+{"timestamp_utc": "2026-01-20T04:25:02+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.40429, "error": ""}
+{"timestamp_utc": "2026-01-20T04:30:02+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054953, "error": ""}
+{"timestamp_utc": "2026-01-20T04:30:02+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.285281, "error": ""}
+{"timestamp_utc": "2026-01-20T04:30:02+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.422137, "error": ""}
+{"timestamp_utc": "2026-01-20T04:35:03+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.063588, "error": ""}
+{"timestamp_utc": "2026-01-20T04:35:03+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.262582, "error": ""}
+{"timestamp_utc": "2026-01-20T04:35:03+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.373591, "error": ""}
+{"timestamp_utc": "2026-01-20T04:40:04+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.055304, "error": ""}
+{"timestamp_utc": "2026-01-20T04:40:04+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.308185, "error": ""}
+{"timestamp_utc": "2026-01-20T04:40:04+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.445037, "error": ""}
+{"timestamp_utc": "2026-01-20T04:45:05+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054432, "error": ""}
+{"timestamp_utc": "2026-01-20T04:45:05+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.401372, "error": ""}
+{"timestamp_utc": "2026-01-20T04:45:05+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.387814, "error": ""}
+{"timestamp_utc": "2026-01-20T04:50:06+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056422, "error": ""}
+{"timestamp_utc": "2026-01-20T04:50:06+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.335466, "error": ""}
+{"timestamp_utc": "2026-01-20T04:50:06+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.356955, "error": ""}
+{"timestamp_utc": "2026-01-20T04:55:07+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056697, "error": ""}
+{"timestamp_utc": "2026-01-20T04:55:07+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.398581, "error": ""}
+{"timestamp_utc": "2026-01-20T04:55:07+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.386032, "error": ""}
+{"timestamp_utc": "2026-01-20T05:00:07+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057728, "error": ""}
+{"timestamp_utc": "2026-01-20T05:00:07+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.241688, "error": ""}
+{"timestamp_utc": "2026-01-20T05:00:07+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.391611, "error": ""}
+{"timestamp_utc": "2026-01-20T05:05:08+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.059314, "error": ""}
+{"timestamp_utc": "2026-01-20T05:05:08+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.27497, "error": ""}
+{"timestamp_utc": "2026-01-20T05:05:08+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.359187, "error": ""}
+{"timestamp_utc": "2026-01-20T05:10:09+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057919, "error": ""}
+{"timestamp_utc": "2026-01-20T05:10:09+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.26683, "error": ""}
+{"timestamp_utc": "2026-01-20T05:10:09+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.387942, "error": ""}
+{"timestamp_utc": "2026-01-20T05:15:10+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.063281, "error": ""}
+{"timestamp_utc": "2026-01-20T05:15:10+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.260695, "error": ""}
+{"timestamp_utc": "2026-01-20T05:15:10+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.425745, "error": ""}
+{"timestamp_utc": "2026-01-20T05:20:10+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054068, "error": ""}
+{"timestamp_utc": "2026-01-20T05:20:10+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.251916, "error": ""}
+{"timestamp_utc": "2026-01-20T05:20:10+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.370262, "error": ""}
+{"timestamp_utc": "2026-01-20T05:25:11+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.06484, "error": ""}
+{"timestamp_utc": "2026-01-20T05:25:11+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.246833, "error": ""}
+{"timestamp_utc": "2026-01-20T05:25:11+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.377336, "error": ""}
+{"timestamp_utc": "2026-01-20T05:30:12+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057984, "error": ""}
+{"timestamp_utc": "2026-01-20T05:30:12+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.252468, "error": ""}
+{"timestamp_utc": "2026-01-20T05:30:12+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.381883, "error": ""}
+{"timestamp_utc": "2026-01-20T05:35:13+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056405, "error": ""}
+{"timestamp_utc": "2026-01-20T05:35:13+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.374677, "error": ""}
+{"timestamp_utc": "2026-01-20T05:35:13+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.354242, "error": ""}
+{"timestamp_utc": "2026-01-20T05:40:13+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.064861, "error": ""}
+{"timestamp_utc": "2026-01-20T05:40:13+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.335537, "error": ""}
+{"timestamp_utc": "2026-01-20T05:40:13+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.36518, "error": ""}
+{"timestamp_utc": "2026-01-20T05:45:14+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05621, "error": ""}
+{"timestamp_utc": "2026-01-20T05:45:14+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.22281, "error": ""}
+{"timestamp_utc": "2026-01-20T05:45:14+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.359319, "error": ""}
+{"timestamp_utc": "2026-01-20T05:50:15+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05408, "error": ""}
+{"timestamp_utc": "2026-01-20T05:50:15+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.226277, "error": ""}
+{"timestamp_utc": "2026-01-20T05:50:15+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.418596, "error": ""}
+{"timestamp_utc": "2026-01-20T05:55:16+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.060788, "error": ""}
+{"timestamp_utc": "2026-01-20T05:55:16+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.256908, "error": ""}
+{"timestamp_utc": "2026-01-20T05:55:16+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.405827, "error": ""}
+{"timestamp_utc": "2026-01-20T06:00:16+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.060231, "error": ""}
+{"timestamp_utc": "2026-01-20T06:00:16+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.229174, "error": ""}
+{"timestamp_utc": "2026-01-20T06:00:16+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.400197, "error": ""}
+{"timestamp_utc": "2026-01-20T06:05:17+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056326, "error": ""}
+{"timestamp_utc": "2026-01-20T06:05:17+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.205505, "error": ""}
+{"timestamp_utc": "2026-01-20T06:05:17+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.431565, "error": ""}
+{"timestamp_utc": "2026-01-20T06:10:18+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05781, "error": ""}
+{"timestamp_utc": "2026-01-20T06:10:18+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.251868, "error": ""}
+{"timestamp_utc": "2026-01-20T06:10:18+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.389408, "error": ""}
+{"timestamp_utc": "2026-01-20T06:15:19+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056615, "error": ""}
+{"timestamp_utc": "2026-01-20T06:15:19+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.254842, "error": ""}
+{"timestamp_utc": "2026-01-20T06:15:19+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.39505, "error": ""}
+{"timestamp_utc": "2026-01-20T06:20:19+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.053967, "error": ""}
+{"timestamp_utc": "2026-01-20T06:20:19+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.512715, "error": ""}
+{"timestamp_utc": "2026-01-20T06:20:19+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.388182, "error": ""}
+{"timestamp_utc": "2026-01-20T06:25:20+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056923, "error": ""}
+{"timestamp_utc": "2026-01-20T06:25:20+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.238734, "error": ""}
+{"timestamp_utc": "2026-01-20T06:25:20+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.369608, "error": ""}
+{"timestamp_utc": "2026-01-20T06:30:21+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058756, "error": ""}
+{"timestamp_utc": "2026-01-20T06:30:21+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.327524, "error": ""}
+{"timestamp_utc": "2026-01-20T06:30:21+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.380548, "error": ""}
+{"timestamp_utc": "2026-01-20T06:35:22+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058398, "error": ""}
+{"timestamp_utc": "2026-01-20T06:35:22+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.308769, "error": ""}
+{"timestamp_utc": "2026-01-20T06:35:22+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.402344, "error": ""}
+{"timestamp_utc": "2026-01-20T06:40:23+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056393, "error": ""}
+{"timestamp_utc": "2026-01-20T06:40:23+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.252938, "error": ""}
+{"timestamp_utc": "2026-01-20T06:40:23+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.403805, "error": ""}
+{"timestamp_utc": "2026-01-20T06:45:23+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058027, "error": ""}
+{"timestamp_utc": "2026-01-20T06:45:23+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.236108, "error": ""}
+{"timestamp_utc": "2026-01-20T06:45:23+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.394851, "error": ""}
+{"timestamp_utc": "2026-01-20T06:50:24+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.062661, "error": ""}
+{"timestamp_utc": "2026-01-20T06:50:24+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.229221, "error": ""}
+{"timestamp_utc": "2026-01-20T06:50:24+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.376548, "error": ""}
+{"timestamp_utc": "2026-01-20T06:55:25+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056716, "error": ""}
+{"timestamp_utc": "2026-01-20T06:55:25+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.321186, "error": ""}
+{"timestamp_utc": "2026-01-20T06:55:25+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.343456, "error": ""}
+{"timestamp_utc": "2026-01-20T07:00:26+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054289, "error": ""}
+{"timestamp_utc": "2026-01-20T07:00:26+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.29722, "error": ""}
+{"timestamp_utc": "2026-01-20T07:00:26+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.391666, "error": ""}
+{"timestamp_utc": "2026-01-20T07:05:26+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058664, "error": ""}
+{"timestamp_utc": "2026-01-20T07:05:26+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.234854, "error": ""}
+{"timestamp_utc": "2026-01-20T07:05:26+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.3865, "error": ""}
+{"timestamp_utc": "2026-01-20T07:10:27+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057979, "error": ""}
+{"timestamp_utc": "2026-01-20T07:10:27+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.278118, "error": ""}
+{"timestamp_utc": "2026-01-20T07:10:27+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.399885, "error": ""}
+{"timestamp_utc": "2026-01-20T07:15:28+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057108, "error": ""}
+{"timestamp_utc": "2026-01-20T07:15:28+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.271557, "error": ""}
+{"timestamp_utc": "2026-01-20T07:15:28+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.395852, "error": ""}
+{"timestamp_utc": "2026-01-20T07:20:29+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057135, "error": ""}
+{"timestamp_utc": "2026-01-20T07:20:29+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.260829, "error": ""}
+{"timestamp_utc": "2026-01-20T07:20:29+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.385326, "error": ""}
+{"timestamp_utc": "2026-01-20T07:25:29+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.055742, "error": ""}
+{"timestamp_utc": "2026-01-20T07:25:29+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.266058, "error": ""}
+{"timestamp_utc": "2026-01-20T07:25:29+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.374345, "error": ""}
+{"timestamp_utc": "2026-01-20T07:30:30+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05889, "error": ""}
+{"timestamp_utc": "2026-01-20T07:30:30+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.258543, "error": ""}
+{"timestamp_utc": "2026-01-20T07:30:30+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.398768, "error": ""}
+{"timestamp_utc": "2026-01-20T07:35:31+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.055454, "error": ""}
+{"timestamp_utc": "2026-01-20T07:35:31+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.255462, "error": ""}
+{"timestamp_utc": "2026-01-20T07:35:31+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.389882, "error": ""}
+{"timestamp_utc": "2026-01-20T07:40:32+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054063, "error": ""}
+{"timestamp_utc": "2026-01-20T07:40:32+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.219665, "error": ""}
+{"timestamp_utc": "2026-01-20T07:40:32+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.400831, "error": ""}
+{"timestamp_utc": "2026-01-20T07:45:32+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054165, "error": ""}
+{"timestamp_utc": "2026-01-20T07:45:32+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.224464, "error": ""}
+{"timestamp_utc": "2026-01-20T07:45:32+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.364606, "error": ""}
+{"timestamp_utc": "2026-01-20T07:50:33+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057764, "error": ""}
+{"timestamp_utc": "2026-01-20T07:50:33+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.323842, "error": ""}
+{"timestamp_utc": "2026-01-20T07:50:33+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.366285, "error": ""}
+{"timestamp_utc": "2026-01-20T07:55:34+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.0574, "error": ""}
+{"timestamp_utc": "2026-01-20T07:55:34+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.232237, "error": ""}
+{"timestamp_utc": "2026-01-20T07:55:34+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.389876, "error": ""}
+{"timestamp_utc": "2026-01-20T08:00:35+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057536, "error": ""}
+{"timestamp_utc": "2026-01-20T08:00:35+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.251057, "error": ""}
+{"timestamp_utc": "2026-01-20T08:00:35+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.349635, "error": ""}
+{"timestamp_utc": "2026-01-20T08:05:35+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.061289, "error": ""}
+{"timestamp_utc": "2026-01-20T08:05:35+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.305219, "error": ""}
+{"timestamp_utc": "2026-01-20T08:05:35+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.384196, "error": ""}
+{"timestamp_utc": "2026-01-20T08:10:36+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.053758, "error": ""}
+{"timestamp_utc": "2026-01-20T08:10:36+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.253391, "error": ""}
+{"timestamp_utc": "2026-01-20T08:10:36+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.394695, "error": ""}
+{"timestamp_utc": "2026-01-20T08:15:37+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05509, "error": ""}
+{"timestamp_utc": "2026-01-20T08:15:37+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.245335, "error": ""}
+{"timestamp_utc": "2026-01-20T08:15:37+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.37345, "error": ""}
+{"timestamp_utc": "2026-01-20T08:20:37+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054314, "error": ""}
+{"timestamp_utc": "2026-01-20T08:20:37+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.310939, "error": ""}
+{"timestamp_utc": "2026-01-20T08:20:37+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.345596, "error": ""}
+{"timestamp_utc": "2026-01-20T08:25:38+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.055537, "error": ""}
+{"timestamp_utc": "2026-01-20T08:25:38+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.264032, "error": ""}
+{"timestamp_utc": "2026-01-20T08:25:38+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.382889, "error": ""}
+{"timestamp_utc": "2026-01-20T08:30:39+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057339, "error": ""}
+{"timestamp_utc": "2026-01-20T08:30:39+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.213592, "error": ""}
+{"timestamp_utc": "2026-01-20T08:30:39+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.409898, "error": ""}
+{"timestamp_utc": "2026-01-20T08:35:40+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058132, "error": ""}
+{"timestamp_utc": "2026-01-20T08:35:40+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.231631, "error": ""}
+{"timestamp_utc": "2026-01-20T08:35:40+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.39762, "error": ""}
+{"timestamp_utc": "2026-01-20T08:40:40+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054827, "error": ""}
+{"timestamp_utc": "2026-01-20T08:40:40+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.236032, "error": ""}
+{"timestamp_utc": "2026-01-20T08:40:40+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.372553, "error": ""}
+{"timestamp_utc": "2026-01-20T08:45:41+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058133, "error": ""}
+{"timestamp_utc": "2026-01-20T08:45:41+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.208483, "error": ""}
+{"timestamp_utc": "2026-01-20T08:45:41+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.376092, "error": ""}
+{"timestamp_utc": "2026-01-20T08:50:42+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.055526, "error": ""}
+{"timestamp_utc": "2026-01-20T08:50:42+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.238967, "error": ""}
+{"timestamp_utc": "2026-01-20T08:50:42+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.355733, "error": ""}
+{"timestamp_utc": "2026-01-20T08:55:43+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056872, "error": ""}
+{"timestamp_utc": "2026-01-20T08:55:43+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.24106, "error": ""}
+{"timestamp_utc": "2026-01-20T08:55:43+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.376487, "error": ""}
+{"timestamp_utc": "2026-01-20T09:00:43+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058723, "error": ""}
+{"timestamp_utc": "2026-01-20T09:00:43+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.267701, "error": ""}
+{"timestamp_utc": "2026-01-20T09:00:43+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.422851, "error": ""}
+{"timestamp_utc": "2026-01-20T09:05:44+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.061948, "error": ""}
+{"timestamp_utc": "2026-01-20T09:05:44+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.341067, "error": ""}
+{"timestamp_utc": "2026-01-20T09:05:44+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.367652, "error": ""}
+{"timestamp_utc": "2026-01-20T09:10:45+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058409, "error": ""}
+{"timestamp_utc": "2026-01-20T09:10:45+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.225442, "error": ""}
+{"timestamp_utc": "2026-01-20T09:10:45+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.38302, "error": ""}
+{"timestamp_utc": "2026-01-20T09:15:46+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05283, "error": ""}
+{"timestamp_utc": "2026-01-20T09:15:46+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.213689, "error": ""}
+{"timestamp_utc": "2026-01-20T09:15:46+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.413267, "error": ""}
+{"timestamp_utc": "2026-01-20T09:20:46+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057528, "error": ""}
+{"timestamp_utc": "2026-01-20T09:20:46+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.289423, "error": ""}
+{"timestamp_utc": "2026-01-20T09:20:46+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.345866, "error": ""}
+{"timestamp_utc": "2026-01-20T09:25:47+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05476, "error": ""}
+{"timestamp_utc": "2026-01-20T09:25:47+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.255474, "error": ""}
+{"timestamp_utc": "2026-01-20T09:25:47+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.377173, "error": ""}
+{"timestamp_utc": "2026-01-20T09:30:48+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057608, "error": ""}
+{"timestamp_utc": "2026-01-20T09:30:48+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.353776, "error": ""}
+{"timestamp_utc": "2026-01-20T09:30:48+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.403373, "error": ""}
+{"timestamp_utc": "2026-01-20T09:35:49+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.059275, "error": ""}
+{"timestamp_utc": "2026-01-20T09:35:49+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.256412, "error": ""}
+{"timestamp_utc": "2026-01-20T09:35:49+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.393184, "error": ""}
+{"timestamp_utc": "2026-01-20T09:40:49+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.066323, "error": ""}
+{"timestamp_utc": "2026-01-20T09:40:49+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.273777, "error": ""}
+{"timestamp_utc": "2026-01-20T09:40:49+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.416189, "error": ""}
+{"timestamp_utc": "2026-01-20T09:45:50+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056566, "error": ""}
+{"timestamp_utc": "2026-01-20T09:45:50+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.228524, "error": ""}
+{"timestamp_utc": "2026-01-20T09:45:50+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.387617, "error": ""}
+{"timestamp_utc": "2026-01-20T09:50:51+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058218, "error": ""}
+{"timestamp_utc": "2026-01-20T09:50:51+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.236092, "error": ""}
+{"timestamp_utc": "2026-01-20T09:50:51+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.380466, "error": ""}
+{"timestamp_utc": "2026-01-20T09:55:52+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.055019, "error": ""}
+{"timestamp_utc": "2026-01-20T09:55:52+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.311589, "error": ""}
+{"timestamp_utc": "2026-01-20T09:55:52+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.373082, "error": ""}
+{"timestamp_utc": "2026-01-20T10:00:52+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056521, "error": ""}
+{"timestamp_utc": "2026-01-20T10:00:52+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.214782, "error": ""}
+{"timestamp_utc": "2026-01-20T10:00:52+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.394878, "error": ""}
+{"timestamp_utc": "2026-01-20T10:05:53+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058044, "error": ""}
+{"timestamp_utc": "2026-01-20T10:05:53+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.223471, "error": ""}
+{"timestamp_utc": "2026-01-20T10:05:53+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.382341, "error": ""}
+{"timestamp_utc": "2026-01-20T10:10:54+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.061738, "error": ""}
+{"timestamp_utc": "2026-01-20T10:10:54+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.239229, "error": ""}
+{"timestamp_utc": "2026-01-20T10:10:54+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.366732, "error": ""}
+{"timestamp_utc": "2026-01-20T10:15:54+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05652, "error": ""}
+{"timestamp_utc": "2026-01-20T10:15:54+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.249412, "error": ""}
+{"timestamp_utc": "2026-01-20T10:15:54+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.383782, "error": ""}
+{"timestamp_utc": "2026-01-20T10:20:55+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056143, "error": ""}
+{"timestamp_utc": "2026-01-20T10:20:55+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.259308, "error": ""}
+{"timestamp_utc": "2026-01-20T10:20:55+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.373043, "error": ""}
+{"timestamp_utc": "2026-01-20T10:25:56+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057039, "error": ""}
+{"timestamp_utc": "2026-01-20T10:25:56+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.252167, "error": ""}
+{"timestamp_utc": "2026-01-20T10:25:56+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.370735, "error": ""}
+{"timestamp_utc": "2026-01-20T10:30:57+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.067, "error": ""}
+{"timestamp_utc": "2026-01-20T10:30:57+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.488694, "error": ""}
+{"timestamp_utc": "2026-01-20T10:30:57+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.350902, "error": ""}
+{"timestamp_utc": "2026-01-20T10:35:58+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05531, "error": ""}
+{"timestamp_utc": "2026-01-20T10:35:58+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.23254, "error": ""}
+{"timestamp_utc": "2026-01-20T10:35:58+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.412493, "error": ""}
+{"timestamp_utc": "2026-01-20T10:40:58+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05454, "error": ""}
+{"timestamp_utc": "2026-01-20T10:40:58+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.339987, "error": ""}
+{"timestamp_utc": "2026-01-20T10:40:58+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.416771, "error": ""}
+{"timestamp_utc": "2026-01-20T10:45:59+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057907, "error": ""}
+{"timestamp_utc": "2026-01-20T10:45:59+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "403", "time_total": 0.053117, "error": ""}
+{"timestamp_utc": "2026-01-20T10:45:59+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.394252, "error": ""}
+{"timestamp_utc": "2026-01-20T10:51:00+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058518, "error": ""}
+{"timestamp_utc": "2026-01-20T10:51:00+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.34041, "error": ""}
+{"timestamp_utc": "2026-01-20T10:51:00+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.412692, "error": ""}
+{"timestamp_utc": "2026-01-20T10:56:01+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057345, "error": ""}
+{"timestamp_utc": "2026-01-20T10:56:01+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.32952, "error": ""}
+{"timestamp_utc": "2026-01-20T10:56:01+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.354258, "error": ""}
+{"timestamp_utc": "2026-01-20T11:01:01+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054284, "error": ""}
+{"timestamp_utc": "2026-01-20T11:01:01+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.290368, "error": ""}
+{"timestamp_utc": "2026-01-20T11:01:01+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.359943, "error": ""}
+{"timestamp_utc": "2026-01-20T11:06:02+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056251, "error": ""}
+{"timestamp_utc": "2026-01-20T11:06:02+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.208335, "error": ""}
+{"timestamp_utc": "2026-01-20T11:06:02+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.34273, "error": ""}
+{"timestamp_utc": "2026-01-20T11:11:03+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05525, "error": ""}
+{"timestamp_utc": "2026-01-20T11:11:03+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.251704, "error": ""}
+{"timestamp_utc": "2026-01-20T11:11:03+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.371, "error": ""}
+{"timestamp_utc": "2026-01-20T11:16:03+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.055341, "error": ""}
+{"timestamp_utc": "2026-01-20T11:16:03+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.24073, "error": ""}
+{"timestamp_utc": "2026-01-20T11:16:03+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.439103, "error": ""}
+{"timestamp_utc": "2026-01-20T11:21:04+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057048, "error": ""}
+{"timestamp_utc": "2026-01-20T11:21:04+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.327934, "error": ""}
+{"timestamp_utc": "2026-01-20T11:21:04+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.431611, "error": ""}
+{"timestamp_utc": "2026-01-20T11:26:05+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058811, "error": ""}
+{"timestamp_utc": "2026-01-20T11:26:05+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.227563, "error": ""}
+{"timestamp_utc": "2026-01-20T11:26:05+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.345461, "error": ""}
+{"timestamp_utc": "2026-01-20T11:31:06+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058229, "error": ""}
+{"timestamp_utc": "2026-01-20T11:31:06+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.815664, "error": ""}
+{"timestamp_utc": "2026-01-20T11:31:06+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.367947, "error": ""}
+{"timestamp_utc": "2026-01-20T11:36:07+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.060887, "error": ""}
+{"timestamp_utc": "2026-01-20T11:36:07+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.310405, "error": ""}
+{"timestamp_utc": "2026-01-20T11:36:07+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.4329, "error": ""}
+{"timestamp_utc": "2026-01-20T11:41:08+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054011, "error": ""}
+{"timestamp_utc": "2026-01-20T11:41:08+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.207664, "error": ""}
+{"timestamp_utc": "2026-01-20T11:41:08+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.389779, "error": ""}
+{"timestamp_utc": "2026-01-20T11:46:09+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.06728, "error": ""}
+{"timestamp_utc": "2026-01-20T11:46:09+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.234689, "error": ""}
+{"timestamp_utc": "2026-01-20T11:46:09+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.354124, "error": ""}
+{"timestamp_utc": "2026-01-20T11:51:09+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054035, "error": ""}
+{"timestamp_utc": "2026-01-20T11:51:09+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.238519, "error": ""}
+{"timestamp_utc": "2026-01-20T11:51:09+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.38679, "error": ""}
+{"timestamp_utc": "2026-01-20T11:56:10+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05388, "error": ""}
+{"timestamp_utc": "2026-01-20T11:56:10+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.314262, "error": ""}
+{"timestamp_utc": "2026-01-20T11:56:10+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.374139, "error": ""}
+{"timestamp_utc": "2026-01-20T12:01:11+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.071431, "error": ""}
+{"timestamp_utc": "2026-01-20T12:01:11+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.291995, "error": ""}
+{"timestamp_utc": "2026-01-20T12:01:11+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.345879, "error": ""}
+{"timestamp_utc": "2026-01-20T12:06:12+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.061335, "error": ""}
+{"timestamp_utc": "2026-01-20T12:06:12+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.277452, "error": ""}
+{"timestamp_utc": "2026-01-20T12:06:12+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.397965, "error": ""}
+{"timestamp_utc": "2026-01-20T12:11:12+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.060906, "error": ""}
+{"timestamp_utc": "2026-01-20T12:11:12+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.276769, "error": ""}
+{"timestamp_utc": "2026-01-20T12:11:12+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.417181, "error": ""}
+{"timestamp_utc": "2026-01-20T12:16:13+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.053241, "error": ""}
+{"timestamp_utc": "2026-01-20T12:16:13+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.300484, "error": ""}
+{"timestamp_utc": "2026-01-20T12:16:13+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.404424, "error": ""}
+{"timestamp_utc": "2026-01-20T12:21:14+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.062592, "error": ""}
+{"timestamp_utc": "2026-01-20T12:21:14+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.217897, "error": ""}
+{"timestamp_utc": "2026-01-20T12:21:14+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.359141, "error": ""}
+{"timestamp_utc": "2026-01-20T12:26:15+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.053339, "error": ""}
+{"timestamp_utc": "2026-01-20T12:26:15+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.265892, "error": ""}
+{"timestamp_utc": "2026-01-20T12:26:15+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.357085, "error": ""}
+{"timestamp_utc": "2026-01-20T12:31:15+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058633, "error": ""}
+{"timestamp_utc": "2026-01-20T12:31:15+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.265762, "error": ""}
+{"timestamp_utc": "2026-01-20T12:31:15+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.38286, "error": ""}
+{"timestamp_utc": "2026-01-20T12:36:16+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058413, "error": ""}
+{"timestamp_utc": "2026-01-20T12:36:16+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.261985, "error": ""}
+{"timestamp_utc": "2026-01-20T12:36:16+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.413547, "error": ""}
+{"timestamp_utc": "2026-01-20T12:41:17+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.063423, "error": ""}
+{"timestamp_utc": "2026-01-20T12:41:17+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.271564, "error": ""}
+{"timestamp_utc": "2026-01-20T12:41:17+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.392302, "error": ""}
+{"timestamp_utc": "2026-01-20T12:46:18+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.053914, "error": ""}
+{"timestamp_utc": "2026-01-20T12:46:18+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.321351, "error": ""}
+{"timestamp_utc": "2026-01-20T12:46:18+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.38325, "error": ""}
+{"timestamp_utc": "2026-01-20T12:51:18+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056735, "error": ""}
+{"timestamp_utc": "2026-01-20T12:51:18+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.326895, "error": ""}
+{"timestamp_utc": "2026-01-20T12:51:18+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.379723, "error": ""}
+{"timestamp_utc": "2026-01-20T12:56:19+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.054769, "error": ""}
+{"timestamp_utc": "2026-01-20T12:56:19+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.267181, "error": ""}
+{"timestamp_utc": "2026-01-20T12:56:19+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.358519, "error": ""}
+{"timestamp_utc": "2026-01-20T13:01:20+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.060322, "error": ""}
+{"timestamp_utc": "2026-01-20T13:01:20+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.228265, "error": ""}
+{"timestamp_utc": "2026-01-20T13:01:20+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.379927, "error": ""}
+{"timestamp_utc": "2026-01-24T23:39:32+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05589, "error": ""}
+{"timestamp_utc": "2026-01-24T23:39:32+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.241087, "error": ""}
+{"timestamp_utc": "2026-01-24T23:39:32+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.396836, "error": ""}
+{"timestamp_utc": "2026-01-24T23:44:33+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.061838, "error": ""}
+{"timestamp_utc": "2026-01-24T23:44:33+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.329283, "error": ""}
+{"timestamp_utc": "2026-01-24T23:44:33+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.370342, "error": ""}
+{"timestamp_utc": "2026-01-24T23:46:19+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.053999, "error": ""}
+{"timestamp_utc": "2026-01-24T23:46:19+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.40228, "error": ""}
+{"timestamp_utc": "2026-01-24T23:46:19+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.379046, "error": ""}
+{"timestamp_utc": "2026-01-24T23:51:20+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.063971, "error": ""}
+{"timestamp_utc": "2026-01-24T23:51:20+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.349848, "error": ""}
+{"timestamp_utc": "2026-01-24T23:51:20+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.387581, "error": ""}
+{"timestamp_utc": "2026-01-24T23:54:38+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.053682, "error": ""}
+{"timestamp_utc": "2026-01-24T23:54:38+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.514376, "error": ""}
+{"timestamp_utc": "2026-01-24T23:54:38+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.348799, "error": ""}
+{"timestamp_utc": "2026-01-24T23:59:39+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.057864, "error": ""}
+{"timestamp_utc": "2026-01-24T23:59:39+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.239271, "error": ""}
+{"timestamp_utc": "2026-01-24T23:59:39+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.37394, "error": ""}
+{"timestamp_utc": "2026-01-25T00:04:40+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.066854, "error": ""}
+{"timestamp_utc": "2026-01-25T00:04:40+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.320066, "error": ""}
+{"timestamp_utc": "2026-01-25T00:04:40+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.414448, "error": ""}
+{"timestamp_utc": "2026-01-25T00:06:45+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.051009, "error": ""}
+{"timestamp_utc": "2026-01-25T00:06:45+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.324752, "error": ""}
+{"timestamp_utc": "2026-01-25T00:06:45+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.372977, "error": ""}
+{"timestamp_utc": "2026-01-25T00:11:45+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058418, "error": ""}
+{"timestamp_utc": "2026-01-25T00:11:45+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.262403, "error": ""}
+{"timestamp_utc": "2026-01-25T00:11:45+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.434113, "error": ""}
+{"timestamp_utc": "2026-01-25T00:16:46+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.061735, "error": ""}
+{"timestamp_utc": "2026-01-25T00:16:46+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.241545, "error": ""}
+{"timestamp_utc": "2026-01-25T00:16:46+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.375151, "error": ""}
+{"timestamp_utc": "2026-01-25T00:26:28+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.050614, "error": "", "dns_lookup_ms": 18.78, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:26:28+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.394421, "error": "", "dns_lookup_ms": 8.42, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:26:28+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.347139, "error": "", "dns_lookup_ms": 82.55, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:35:27+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.068892, "error": "", "dns_lookup_ms": 8.73, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:35:27+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.248928, "error": "", "dns_lookup_ms": 8.7, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:35:27+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.410442, "error": "", "dns_lookup_ms": 93.72, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:35:27+00:00", "url": "https://www.apple.com", "final_url": "https://www.apple.com/", "http_code": "200", "time_total": 0.077146, "error": "", "dns_lookup_ms": 9.22, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:35:27+00:00", "url": "https://www.cisco.com", "final_url": "https://www.cisco.com/", "http_code": "200", "time_total": 0.250617, "error": "", "dns_lookup_ms": 6.55, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:35:56+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.048859, "error": "", "dns_lookup_ms": 12.07, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:35:56+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.236518, "error": "", "dns_lookup_ms": 8.16, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:35:56+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.378742, "error": "", "dns_lookup_ms": 63.84, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:35:56+00:00", "url": "https://www.apple.com", "final_url": "https://www.apple.com/", "http_code": "200", "time_total": 0.111091, "error": "", "dns_lookup_ms": 7.21, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:35:56+00:00", "url": "https://www.cisco.com", "final_url": "https://www.cisco.com/", "http_code": "200", "time_total": 0.092743, "error": "", "dns_lookup_ms": 7.53, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:40:57+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.072095, "error": "", "dns_lookup_ms": 9.14, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:40:57+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.296773, "error": "", "dns_lookup_ms": 9.81, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:40:57+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.341658, "error": "", "dns_lookup_ms": 65.45, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:40:57+00:00", "url": "https://www.apple.com", "final_url": "https://www.apple.com/", "http_code": "200", "time_total": 0.076875, "error": "", "dns_lookup_ms": 10.37, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:40:57+00:00", "url": "https://www.cisco.com", "final_url": "https://www.cisco.com/", "http_code": "200", "time_total": 0.171641, "error": "", "dns_lookup_ms": 9.43, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:42:16+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.059536, "error": "", "dns_lookup_ms": 14.79, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:42:16+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.319629, "error": "", "dns_lookup_ms": 6.54, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:42:16+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.412464, "error": "", "dns_lookup_ms": 94.51, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:42:16+00:00", "url": "https://www.apple.com", "final_url": "https://www.apple.com/", "http_code": "200", "time_total": 0.139292, "error": "", "dns_lookup_ms": 10.01, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:42:16+00:00", "url": "https://www.cisco.com", "final_url": "https://www.cisco.com/", "http_code": "200", "time_total": 0.075466, "error": "", "dns_lookup_ms": 7.01, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:47:17+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.059712, "error": "", "dns_lookup_ms": 6.88, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:47:17+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.257066, "error": "", "dns_lookup_ms": 7.63, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:47:17+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.429755, "error": "", "dns_lookup_ms": 68.35, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:47:17+00:00", "url": "https://www.apple.com", "final_url": "https://www.apple.com/", "http_code": "200", "time_total": 0.07395, "error": "", "dns_lookup_ms": 10.05, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:47:17+00:00", "url": "https://www.cisco.com", "final_url": "https://www.cisco.com/", "http_code": "200", "time_total": 0.332265, "error": "", "dns_lookup_ms": 9.43, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:52:19+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.064961, "error": "", "dns_lookup_ms": 7.44, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:52:19+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.23853, "error": "", "dns_lookup_ms": 8.98, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:52:19+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.383488, "error": "", "dns_lookup_ms": 65.6, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:52:19+00:00", "url": "https://www.apple.com", "final_url": "https://www.apple.com/", "http_code": "200", "time_total": 0.131077, "error": "", "dns_lookup_ms": 9.68, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:52:19+00:00", "url": "https://www.cisco.com", "final_url": "https://www.cisco.com/", "http_code": "200", "time_total": 0.172493, "error": "", "dns_lookup_ms": 7.95, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:57:20+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05979, "error": "", "dns_lookup_ms": 10.66, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:57:20+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.253264, "error": "", "dns_lookup_ms": 6.02, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:57:20+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.36848, "error": "", "dns_lookup_ms": 66.7, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:57:20+00:00", "url": "https://www.apple.com", "final_url": "https://www.apple.com/", "http_code": "200", "time_total": 0.097546, "error": "", "dns_lookup_ms": 10.33, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T00:57:20+00:00", "url": "https://www.cisco.com", "final_url": "https://www.cisco.com/", "http_code": "200", "time_total": 0.237381, "error": "", "dns_lookup_ms": 10.47, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:02:21+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.058724, "error": "", "dns_lookup_ms": 9.5, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:02:21+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.246856, "error": "", "dns_lookup_ms": 6.95, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:02:21+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.388553, "error": "", "dns_lookup_ms": 67.46, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:02:21+00:00", "url": "https://www.apple.com", "final_url": "https://www.apple.com/", "http_code": "200", "time_total": 0.087219, "error": "", "dns_lookup_ms": 7.75, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:02:21+00:00", "url": "https://www.cisco.com", "final_url": "https://www.cisco.com/", "http_code": "200", "time_total": 0.742378, "error": "", "dns_lookup_ms": 6.26, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:07:23+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.056695, "error": "", "dns_lookup_ms": 9.08, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:07:23+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.300803, "error": "", "dns_lookup_ms": 6.42, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:07:23+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.378709, "error": "", "dns_lookup_ms": 52.18, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:07:23+00:00", "url": "https://www.apple.com", "final_url": "https://www.apple.com/", "http_code": "200", "time_total": 0.07235, "error": "", "dns_lookup_ms": 6.64, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:07:23+00:00", "url": "https://www.cisco.com", "final_url": "https://www.cisco.com/", "http_code": "200", "time_total": 0.138884, "error": "", "dns_lookup_ms": 9.29, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:12:24+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.05885, "error": "", "dns_lookup_ms": 6.55, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:12:24+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.355189, "error": "", "dns_lookup_ms": 7.52, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:12:24+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.417136, "error": "", "dns_lookup_ms": 65.77, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:12:24+00:00", "url": "https://www.apple.com", "final_url": "https://www.apple.com/", "http_code": "200", "time_total": 0.078993, "error": "", "dns_lookup_ms": 9.12, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:12:24+00:00", "url": "https://www.cisco.com", "final_url": "https://www.cisco.com/", "http_code": "200", "time_total": 0.140129, "error": "", "dns_lookup_ms": 8.92, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:17:25+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.059959, "error": "", "dns_lookup_ms": 9.8, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:17:25+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.243295, "error": "", "dns_lookup_ms": 11.39, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:17:25+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.376228, "error": "", "dns_lookup_ms": 82.39, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:17:25+00:00", "url": "https://www.apple.com", "final_url": "https://www.apple.com/", "http_code": "200", "time_total": 0.080456, "error": "", "dns_lookup_ms": 7.03, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:17:25+00:00", "url": "https://www.cisco.com", "final_url": "https://www.cisco.com/", "http_code": "200", "time_total": 0.489937, "error": "", "dns_lookup_ms": 8.91, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:22:27+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.068627, "error": "", "dns_lookup_ms": 9.25, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:22:27+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.323464, "error": "", "dns_lookup_ms": 8.04, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:22:27+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.384822, "error": "", "dns_lookup_ms": 68.03, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:22:27+00:00", "url": "https://www.apple.com", "final_url": "https://www.apple.com/", "http_code": "200", "time_total": 0.084396, "error": "", "dns_lookup_ms": 5.97, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:22:27+00:00", "url": "https://www.cisco.com", "final_url": "https://www.cisco.com/", "http_code": "200", "time_total": 0.402313, "error": "", "dns_lookup_ms": 7.13, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:27:28+00:00", "url": "https://example.com", "final_url": "https://example.com/", "http_code": "200", "time_total": 0.063628, "error": "", "dns_lookup_ms": 7.76, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:27:28+00:00", "url": "https://www.cloudflare.com", "final_url": "https://www.cloudflare.com/", "http_code": "200", "time_total": 0.259822, "error": "", "dns_lookup_ms": 4009.53, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:27:28+00:00", "url": "https://www.extremenetworks.com", "final_url": "https://www.extremenetworks.com/", "http_code": "200", "time_total": 0.671883, "error": "", "dns_lookup_ms": 89.91, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:27:28+00:00", "url": "https://www.apple.com", "final_url": "https://www.apple.com/", "http_code": "200", "time_total": 0.164494, "error": "", "dns_lookup_ms": 8.24, "dns_success": true, "dns_error": ""}
+{"timestamp_utc": "2026-01-25T01:27:28+00:00", "url": "https://www.cisco.com", "final_url": "https://www.cisco.com/", "http_code": "200", "time_total": 0.19916, "error": "", "dns_lookup_ms": 9.2, "dns_success": true, "dns_error": ""}
