@@ -1,0 +1,21 @@
+services:
+  webrunner:
+    build:
+      context: .
+    container_name: webrunner
+    restart: unless-stopped
+
+    environment:
+      # IMPORTANT: must match heartbeat DEVICE_ID
+      - DEVICE_ID=pi-403c60f1-2557-408f-a3c8-ca7acaf034f5
+
+      # Cloud endpoint (production)
+      - CLOUD_BASE=https://netrunner-dashboard.vercel.app
+
+      # Optional, but fine to keep if your code references it
+      - PYTHONUNBUFFERED=1
+
+    volumes:
+      - ./data:/data
+      - ./config.json:/app/config.json:ro
+      - ./webrunner.py:/app/webrunner.py:ro
