@@ -1,9 +1,0 @@
-{
-  "device_id": "pi-e79ce0af-b227-4c91-8e34-3437cadcf95c",
-  "interval_seconds": 60,
-  "urls": [
-    "https://www.google.com",
-    "https://www.cloudflare.com",
-    "https://www.vallelogic.com"
-  ]
-}
